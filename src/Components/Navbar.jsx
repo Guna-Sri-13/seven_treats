@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import navbarstyle from '../Style/Navbar.module.css'
+import '../Style/Common.module.css'
 
 const Navbar = ({cartCount}) => {
   const navigate = useNavigate(); 
@@ -31,14 +32,14 @@ const Navbar = ({cartCount}) => {
             &times;
           </div>
         <ul> 
-        <li><a href="/home">Home</a></li>
-        <li><a href="/pastries">Pastries</a></li>
-        <li><a href="/cookies">Cookies</a></li>
-        <li><a href="/cupcakes">Cupcakes</a></li>
-        <li><a href="/smoothies">Smoothies</a></li>
-        <li><a href="/macarons">Macarons</a></li>
-        <li><a href="/coffee">Coffee</a></li>
-        <li><a href="/cart">Cart ({cartCount})</a></li>
+        <li><a href="/Home">Home</a></li>
+        <li><a href="/Pastries">Pastries</a></li>
+        <li><a href="/Cookies">Cookies</a></li>
+        <li><a href="/Cupcakes">Cupcakes</a></li>
+        <li><a href="/Smoothies">Smoothies</a></li>
+        <li><a href="/Macarons">Macarons</a></li>
+        <li><a href="/Coffee">Coffee</a></li>
+        <li><a href="/Cart">Cart ({cartCount})</a></li>
         <li><button onClick={() => {
           localStorage.clear();
           navigate("/");

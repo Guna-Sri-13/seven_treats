@@ -5,7 +5,7 @@ const desserts = [
     price: 120,
     category: "pastries",
     desc: "Rich chocolate layered pastry with creamy frosting.",
-    image: "/dessertimage/chocolate_pastry.png"
+    image: "chocolate_pastry.png"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const desserts = [
     price: 130,
     category: "pastries",
     desc: "Fresh strawberry delight with soft sponge layers.",
-    image: "/dessertimage/strawberry_pastry.png"
+    image: "strawberry_pastry.png"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const desserts = [
     price: 120,
     category: "pastries",
     desc: "Rich and moist chocolate pastry layered with smooth truffle cream.",
-    image: "/dessertimage/choco_pastry.png"
+    image: "choco_pastry.png"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const desserts = [
     price: 110,
     category: "pastries",
     desc: "Classic chocolate sponge with whipped cream and cherry filling.",
-    image: "/dessertimage/Black_forest.png"
+    image: "Black_forest.png"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const desserts = [
     price: 80,
     category: "cookies",
     desc: "Crunchy cookie filled with chocolate chips.",
-    image: "/dessertimage/choco_cookies.png"
+    image: "choco_cookies.png"
   },
   {
     id: 6,
