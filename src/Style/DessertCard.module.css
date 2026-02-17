@@ -1,0 +1,71 @@
+
+/* Container */
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 40px;
+  justify-content: center;
+}
+
+/* Card */
+.dessertcard {
+  background: #ffffff;
+  width: 260px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(128, 0, 128, 0.15);
+  overflow: hidden;
+  text-align: center;
+  padding-top:20px;
+}
+
+/* Image */
+.dessertcard img {
+  border: 2px solid #c084fc;
+  border-radius: 10px;
+  padding: 10px;
+  width:50%;
+  object-fit: cover;
+}
+
+/* Content */
+.dessertcontent {
+  padding: 12px;
+}
+
+.dessertcontent h4 {
+  margin: 8px 0;
+  color: #6a0dad;
+}
+
+.dessertcontent p {
+  max-width:300px;
+  font-size: 14px;
+  margin: 5px 0;
+  color: #444;
+}
+
+.price {
+  font-size:16px;
+  font-weight: bold;
+  color: #800080;
+}
+
+/* Button */
+.dessertbtn {
+  padding: 10px;
+}
+
+.dessertbtn button {
+  background: linear-gradient(to right, #7b2cbf, #c084fc);
+  color: white;
+  padding: 8px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.dessertbtn button:hover{
+  background: white;
+  color:#6a0dad;
+  border-color: #6a0dad;
+}
+
