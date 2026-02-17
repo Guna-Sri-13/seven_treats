@@ -1,3 +1,7 @@
+* {
+    list-style: none;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -8,9 +12,7 @@
     background: white;
     z-index: 1000;
 }
-.links {
-    list-style: none;
-}
+
 
 .links ul  {
     display: flex;
