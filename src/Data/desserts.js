@@ -29,7 +29,7 @@ const desserts = [
     price: 110,
     category: "pastries",
     desc: "Classic chocolate sponge with whipped cream and cherry filling.",
-    img: "dessertimg/black_forest.png"
+    img: "dessertimg/Black_forest.png"
   },
   {
     id: 5,
@@ -85,7 +85,7 @@ const desserts = [
     price: 140,
     category: "cupcakes",
     desc: "Soft red velvet cupcake topped with creamy cheese frosting.",
-    img: "dessertimg/Red_velet_cup.png"
+    img: "dessertimg/red_velet_cup.png"
   },
   {
     id: 12,
