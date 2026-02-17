@@ -110,6 +110,7 @@ button:hover {
         width: 100%;
         padding: 18px;
         text-align: left;
+        list-style: none;
     }
 
     .active {

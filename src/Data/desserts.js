@@ -5,7 +5,7 @@ const desserts = [
     price: 120,
     category: "pastries",
     desc: "Rich chocolate layered pastry with creamy frosting.",
-    img: "public/dessertimg/chocolate_pastry.png"
+    img: "dessertimg/chocolate_pastry.png"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const desserts = [
     price: 130,
     category: "pastries",
     desc: "Fresh strawberry delight with soft sponge layers.",
-    img: "public/dessertimg/strawberry_pastry.png"
+    img: "dessertimg/strawberry_pastry.png"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const desserts = [
     price: 120,
     category: "pastries",
     desc: "Rich and moist chocolate pastry layered with smooth truffle cream.",
-    img: "public/dessertimg/choco_pastry.png"
+    img: "dessertimg/choco_pastry.png"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const desserts = [
     price: 110,
     category: "pastries",
     desc: "Classic chocolate sponge with whipped cream and cherry filling.",
-    img: "public/dessertimg/black_forest.png"
+    img: "dessertimg/black_forest.png"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const desserts = [
     price: 80,
     category: "cookies",
     desc: "Crunchy cookie filled with chocolate chips.",
-    img: "public/dessertimg/choco_cookies.png"
+    img: "dessertimg/choco_cookies.png"
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const desserts = [
     price: 80,
     category: "cookies",
     desc: "Soft and melt-in-your-mouth cookies with a rich buttery flavor.",
-    img: "public/dessertimg/butter_cookies.png"
+    img: "dessertimg/butter_cookies.png"
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const desserts = [
     price: 95,
     category: "cookies",
     desc: "Chewy oatmeal cookies mixed with sweet raisins and cinnamon.",
-    img: "public/dessertimg/oatmeals_rasini_cookies.png"
+    img: "dessertimg/oatmeals_rasini_cookies.png"
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const desserts = [
     price: 150,
     category: "macarons",
     desc: "Light and airy almond shells filled with smooth vanilla cream.",
-    img: "public/dessertimg/vanilla_macarons.png"
+    img: "dessertimg/vanilla_macarons.png"
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const desserts = [
     price: 160,
     category: "macarons",
     desc: "Delicate pink macarons with a tangy raspberry filling.",
-    img: "public/dessertimg/raspberry_macarons.png"
+    img: "dessertimg/raspberry_macarons.png"
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const desserts = [
     price: 170,
     category: "macarons",
     desc: "Nutty pistachio-flavored macarons with creamy center filling.",
-    img: "public/dessertimg/pistaciauo_macarons.png"
+    img: "dessertimg/pistaciauo_macarons.png"
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ const desserts = [
     price: 140,
     category: "cupcakes",
     desc: "Soft red velvet cupcake topped with creamy cheese frosting.",
-    img: "public/dessertimg/Red_velet_cup.png"
+    img: "dessertimg/Red_velet_cup.png"
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ const desserts = [
     price: 150,
     category: "cupcakes",
     desc: "Rich chocolate cupcake with smooth fudge topping.",
-    img: "public/dessertimg/choco_fudge_cup.png"
+    img: "dessertimg/choco_fudge_cup.png"
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ const desserts = [
     price: 130,
     category: "cupcakes",
     desc: "Fluffy vanilla cupcake decorated with colorful sprinkles.",
-    img: "public/dessertimg/vanilla_sprinkles_cup.png"
+    img: "dessertimg/vanilla_sprinkles_cup.png"
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ const desserts = [
     price: 120,
     category: "smoothies",
     desc: "Refreshing blend of ripe mangoes and chilled milk.",
-    img: "public/dessertimg/mango_smoothie.png"
+    img: "dessertimg/mango_smoothie.png"
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ const desserts = [
     price: 140,
     category: "smoothies",
     desc: "Creamy smoothie made with fresh strawberries and bananas",
-    img: "public/dessertimg/strawberry_smoothie.png"
+    img: "dessertimg/strawberry_smoothie.png"
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ const desserts = [
     price: 150,
     category: "smoothies",
     desc: "Sweet and tangy blueberry smoothie packed with antioxidants.",
-    img: "public/dessertimg/blueberry_smoothie.png"
+    img: "dessertimg/blueberry_smoothie.png"
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ const desserts = [
     price: 130,
     category: "coffee",
     desc: "Chilled coffee blended with ice cream and chocolate syrup.",
-    img: "public/dessertimg/cold_coffee.png"
+    img: "dessertimg/cold_coffee.png"
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ const desserts = [
     price: 150,
     category: "coffee",
     desc: "Smooth espresso mixed with steamed milk and sweet caramel.",
-    img: "public/dessertimg/carmel_latte.png"
+    img: "dessertimg/carmel_latte.png"
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ const desserts = [
     price: 110,
     category: "coffee",
     desc: "Freshly brewed espresso topped with frothy steamed milk.",
-    img: "public/dessertimg/cappciauno.png"
+    img: "dessertimg/cappciauno.png"
   },
   
   

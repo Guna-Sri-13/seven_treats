@@ -16,7 +16,7 @@ const Navbar = ({cartCount}) => {
     <>
       <nav className={navbarstyle.navbar}>
       <div>
-      <img src="public/images/Seven-Treats.png" alt="Seven-Treats" width="150px"/>
+      <img src="images/Seven-Treats.png" alt="Seven-Treats" width="150px"/>
       </div>
      {/* Hamburger */}
         <div className={navbarstyle.hamburger} onClick={() => setOpen(true)}>
