@@ -84,6 +84,7 @@ button:hover {
     }
 
     .links {
+        list-style: none;
         position: fixed;
         top: 0;
         left: -260px;
@@ -102,7 +103,7 @@ button:hover {
 
     .links ul li {
         width: 100%;
-         list-style: none;
+        
     }
 
     .links ul li a,
