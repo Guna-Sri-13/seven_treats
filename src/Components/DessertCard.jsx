@@ -19,7 +19,7 @@ const DessertCard = ({ item, cart, setCart }) => {
   return (
 
     <div className={dessertstyles.dessertcard}>
-      <img src={item.img} alt={item.name} width="100px;" />
+      <img src={`/dessertimg/${item.image}`} alt={item.name} width="100px;" />
 
       <div className={dessertstyles.dessertcontent}>
         <h4>{item.name}</h4>
