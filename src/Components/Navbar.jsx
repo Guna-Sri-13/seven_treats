@@ -32,14 +32,14 @@ const Navbar = ({cartCount}) => {
             &times;
           </div>
         <ul> 
-        <li><a href="/Home">Home</a></li>
-        <li><a href="/Pastries">Pastries</a></li>
-        <li><a href="/Cookies">Cookies</a></li>
-        <li><a href="/Cupcakes">Cupcakes</a></li>
-        <li><a href="/Smoothies">Smoothies</a></li>
-        <li><a href="/Macarons">Macarons</a></li>
-        <li><a href="/Coffee">Coffee</a></li>
-        <li><a href="/Cart">Cart ({cartCount})</a></li>
+          <li><Link to="/home">Home</Link></li>
+          <li><Link to="/pastries">Pastries</Link></li>
+          <li><Link to="/cookies">Cookies</Link></li>
+          <li><Link to="/cupcakes">Cupcakes</Link></li>
+          <li><Link to="/smoothies">Smoothies</Link></li>
+          <li><Link to="/macarons">Macarons</Link></li>
+          <li><Link to="/coffee">Coffee</Link></li>
+          <li><Link to="/cart">Cart ({cartCount})</Link></li>
         <li><button onClick={() => {
           localStorage.clear();
           navigate("/");
