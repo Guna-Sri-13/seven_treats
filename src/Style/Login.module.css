@@ -2,9 +2,9 @@
   background: white;
 }
 .login {
-  width: 250px;
+  width: 300px;
   margin: auto;
-  padding: 50px 100px;
+  padding: 40px 30px;
   display: grid;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(243, 2, 243, 0.266);
