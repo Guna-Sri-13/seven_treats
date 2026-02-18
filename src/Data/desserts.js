@@ -151,6 +151,14 @@ const desserts = [
     desc: "Freshly brewed espresso topped with frothy steamed milk.",
     image: "cappciauno.png"
   },
+  // {
+  //   id:20,
+  //   name:"latte",
+  //   price:100,
+  //   category:"coffee",
+  //   desc:"milk latte",
+  //   image:"carmel_latte.png"
+  // },
   
   
 
